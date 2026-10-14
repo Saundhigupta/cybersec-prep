@@ -13,7 +13,7 @@ This repo documents my preparation for a cybersecurity analyst / security engine
 - 8/10/2026: Started this repo, began Pre-Security / SOC Level 1 on TryHackMe
 
 ## Tools I'm Learning
-Wireshark, Splunk, Burp Suite, Nmap, Python, SQL, Git
+Wireshark, Python, SQL, Git
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/saundhi-gupta-01643b32b/
