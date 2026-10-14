@@ -1,0 +1,15 @@
+# Wireshark First Capture Notes
+
+## Overview
+- Tools used: Wireshark on Kali Linux / Windows
+- Captured traffic for: 2 minutes
+- Main protocols observed: DNS, HTTP, TCP
+
+## Key Filters & Commands Used
+- `dns` — Displays domain name resolution requests (port 53)
+- `http.request` — Filters cleartext HTTP GET/POST requests
+- `ip.addr == <your-ip>` — Isolates traffic related to host IP
+
+## Findings
+- Identified DNS query for `google.com`
+- Inspected cleartext HTTP stream for `neverssl.com` using Follow -> TCP Stream
